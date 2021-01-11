@@ -1,4 +1,4 @@
-# 👋 Hello
+# 👋 Hi there!
 Hello, I'm Achmad Aris.
 Im still learning about technologies!
 
